@@ -1,0 +1,23 @@
+Yukarıda 11 sanatçımız için bir veri tablosu verilmiştir. Tablodaki her bir satır bir nesneye karşılık gelecek şekilde bu nesnelerden oluşan bir liste tanımlayınız. Ardından bu liste üzerinden aşığıdaki sorguları gerçekleştiriniz.
+
+Adı 'S' ile başlayan şarkıcılar
+
+Albüm satışları 10 milyon'un üzerinde olan şarkıcılar
+
+2000 yılı öncesi çıkış yapmış ve pop müzik yapan şarkıcılar. ( Çıkış yıllarına göre gruplayarak, alfabetik bir sıra ile yazdırınız.
+
+En çok albüm satan şarkıcı
+
+En yeni çıkış yapan şarkıcı ve en eski çıkış yapan şarkıcı
+sanatçı adı :ajda pekkan , yaptığı müzik türü :pop , çıkış yılı:1968 albüm satışları: yaklaşık 2p milyon
+sanatçı adı :sezen aksu , yaptığı müzik türü : türk halk müziği / pop, çıkış yılı:1971 albüm satışları: yaklaşık 10 milyon
+sanatçı adı :funda arar , yaptığı müzik türü :pop , çıkış yılı: 1999 albüm satışları: yaklaşık 3 milyon
+sanatçı adı : sertab erener, yaptığı müzik türü :pop , çıkış yılı:1994 albüm satışları:Yaklaşık 5 milyon
+sanatçı adı :sıla , yaptığı müzik türü :pop , çıkış yılı:2009 albüm satışları:yaklaşık 3 milyon
+sanatçı adı :serdar ortaç , yaptığı müzik türü : pop , çıkış yılı:1994 albüm satışları: yaklaşık 10 milyon
+sanatçı adı :tarkan , yaptığı müzik türü :pop , çıkış yılı:1992 albüm satışları: yaklaşık 40 milyon
+sanatçı adı :hande yener , yaptığı müzik türü :pop , çıkış yılı:1999 albüm satışları: yaklaşık 7 milyon
+sanatçı adı :hadise  , yaptığı müzik türü :pop , çıkış yılı:2005 albüm satışları: yaklaşık 5  milyon
+sanatçı adı :gülben ergen , yaptığı müzik türü : pop / Türk Halk Müziği, çıkış yılı:1997 albüm satışları: yaklaşık 10 milyon
+sanatçı adı :neşet ertaş , yaptığı müzik türü :Türk Halk Müziği / Türk Sanat Müziği , çıkış yılı:1960 albüm satışları: yaklaşık 2     milyon
+
